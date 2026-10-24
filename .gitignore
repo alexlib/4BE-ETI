@@ -107,3 +107,4 @@ venv.bak/
 # tracking code runs
 *.log
 *.pkl
+uv.lock
